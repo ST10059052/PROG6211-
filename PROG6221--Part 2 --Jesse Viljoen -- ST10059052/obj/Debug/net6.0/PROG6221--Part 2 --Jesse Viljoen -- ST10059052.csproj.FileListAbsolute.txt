@@ -1,0 +1,15 @@
+C:\Users\lab_services_student\source\repos\PROG6221--Part 2 --Jesse Viljoen -- ST10059052\obj\Debug\net6.0\PROG6221--Part 2 --Jesse Viljoen -- ST10059052.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\PROG6221--Part 2 --Jesse Viljoen -- ST10059052\obj\Debug\net6.0\PROG6221--Part 2 --Jesse Viljoen -- ST10059052.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\PROG6221--Part 2 --Jesse Viljoen -- ST10059052\obj\Debug\net6.0\PROG6221--Part 2 --Jesse Viljoen -- ST10059052.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\PROG6221--Part 2 --Jesse Viljoen -- ST10059052\obj\Debug\net6.0\PROG6221--Part 2 --Jesse Viljoen -- ST10059052.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\PROG6221--Part 2 --Jesse Viljoen -- ST10059052\obj\Debug\net6.0\PROG6221--Part 2 --Jesse Viljoen -- ST10059052.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\PROG6221--Part 2 --Jesse Viljoen -- ST10059052\bin\Debug\net6.0\PROG6221--Part 2 --Jesse Viljoen -- ST10059052.exe
+C:\Users\lab_services_student\source\repos\PROG6221--Part 2 --Jesse Viljoen -- ST10059052\bin\Debug\net6.0\PROG6221--Part 2 --Jesse Viljoen -- ST10059052.deps.json
+C:\Users\lab_services_student\source\repos\PROG6221--Part 2 --Jesse Viljoen -- ST10059052\bin\Debug\net6.0\PROG6221--Part 2 --Jesse Viljoen -- ST10059052.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\PROG6221--Part 2 --Jesse Viljoen -- ST10059052\bin\Debug\net6.0\PROG6221--Part 2 --Jesse Viljoen -- ST10059052.dll
+C:\Users\lab_services_student\source\repos\PROG6221--Part 2 --Jesse Viljoen -- ST10059052\bin\Debug\net6.0\PROG6221--Part 2 --Jesse Viljoen -- ST10059052.pdb
+C:\Users\lab_services_student\source\repos\PROG6221--Part 2 --Jesse Viljoen -- ST10059052\obj\Debug\net6.0\PROG6221--Part 2 --Jesse Viljoen -- ST10059052.dll
+C:\Users\lab_services_student\source\repos\PROG6221--Part 2 --Jesse Viljoen -- ST10059052\obj\Debug\net6.0\refint\PROG6221--Part 2 --Jesse Viljoen -- ST10059052.dll
+C:\Users\lab_services_student\source\repos\PROG6221--Part 2 --Jesse Viljoen -- ST10059052\obj\Debug\net6.0\PROG6221--Part 2 --Jesse Viljoen -- ST10059052.pdb
+C:\Users\lab_services_student\source\repos\PROG6221--Part 2 --Jesse Viljoen -- ST10059052\obj\Debug\net6.0\PROG6221--Part 2 --Jesse Viljoen -- ST10059052.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\PROG6221--Part 2 --Jesse Viljoen -- ST10059052\obj\Debug\net6.0\ref\PROG6221--Part 2 --Jesse Viljoen -- ST10059052.dll
