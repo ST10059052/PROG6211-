@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfApp1889.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1889"
+        mc:Ignorable="d"
+        Title="Recipe Menu" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBox x:Name="RecipeNameTextBox" Width="125" Text="Recipe Name" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" />
+            <TextBox x:Name="CaloriesTextBox" Width="125" Text="Calories" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" />
+            <TextBox x:Name="FoodGroupTextBox" Width="125" Text="Food Group" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" />
+            <TextBox x:Name="IngredientFilterTextBox" Width="125" Text="Ingredient Filter" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" />
+            <ComboBox x:Name="FoodGroupComboBox" Width="125" ItemsSource="{x:Bind filteredIngredients}" DisplayMemberPath="Name" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" />
+            <TextBox x:Name="MaxCaloriesFilterTextBox" Width="75" Text="Max Calories" VerticalContentAlignment="Center" HorizontalContentAlignment="Right" />
+            <Button x:Name="EnterRecipeButton" Height="25" Width="75" Content="Enter Recipe" Click="EnterRecipeButton_Click" />
+            <ListBox x:Name="IngredientsListBox" Width="150" ItemsSource="{x:Bind filteredRecipes}" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" />
+            <TextBlock x:Name="RecipeDetailsTextBlock" />
+        </StackPanel>
+    </Grid>
+</Window>
